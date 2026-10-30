@@ -10,4 +10,14 @@ no store, no account, no cloud. Chapters, bookmarks, sleep timer, Apple Watch pl
 
 #### 🎧 Fala – podcast player for Windows
 Free and open source (MIT). OPML import, queue, bookmarks, sleep timer, offline downloads.
-[github.com/Tomasz-Mucha/Fala](https://github.com/Tomasz-Mucha/Fala)
+
+[Download v0.5.0](https://github.com/Tomasz-Mucha/Fala/releases/latest) · [Source](https://github.com/Tomasz-Mucha/Fala)
+
+#### 🖨️ Print Queue Reset – unjam the Windows print queue
+A tiny one-click tool: stops the print spooler, clears stuck jobs and starts it again. MIT.
+
+[Download v1.0.0](https://github.com/Tomasz-Mucha/PrintQueueReset/releases/latest) · [Source](https://github.com/Tomasz-Mucha/PrintQueueReset)
+
+#### 📊 btop for Apple Silicon
+My fork of [btop](https://github.com/aristocratos/btop) with per-process GPU usage and GPU temperature on Apple Silicon Macs.
+[github.com/Tomasz-Mucha/btop](https://github.com/Tomasz-Mucha/btop)
